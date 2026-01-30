@@ -27,6 +27,15 @@
 <img alt="BOM" src="https://img.shields.io/badge/-BOM-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<!-- Languages -->
+<img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+<!-- Computer Science Fundamentals -->
+<img alt="OOP" src="https://img.shields.io/badge/-OOP-FF6B6B?style=flat-square&logo=codeforces&logoColor=white" />
+<img alt="Data Structures" src="https://img.shields.io/badge/-Data_Structures-4CAF50?style=flat-square&logo=thealgorithms&logoColor=white" />
+
 </p>
 <h3>Open source projects</h3>
 <table>
