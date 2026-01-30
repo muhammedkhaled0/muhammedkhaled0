@@ -5,7 +5,7 @@
   Welcome to my page! <br/>
   I'm Muhammed, a Frontend Developer passionate about building web applications using 
   <b>React, JavaScript, TypeScript, and Next</b>, from 
-  <img src="https://flagcdn.com/eg.svg" width="13"/> 
+  <img src="https://flagcdn.com/eg.svg" width="25"/> 
   <b>Egypt</b>.
 </p>
 <h3>Things I code with</h3>
