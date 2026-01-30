@@ -117,7 +117,6 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </p>
->
 <!-- ===== Highlight Section ===== -->
 <section style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 50px 20px; border-radius: 20px; margin: 40px 0; text-align: center; color: white;">
   <h2 style="font-size: 2.2rem; margin-bottom: 20px;">🌟 Did you know?</h2>
@@ -125,7 +124,7 @@
     I love exploring new technologies and I try to learn something new every week! 
     My favorite areas are <b>Web Performance</b>, <b>UI/UX Design</b>, and <b>React Ecosystem</b>.
   </p>
-  <a href="#contact" style="display: inline-block; padding: 12px 25px; background-color: rgba(255,255,255,0.2); border-radius: 10px; color: white; text-decoration: none; font-weight: bold; transition: all 0.3s ease;">
+  <a href="muhammedkhaled7882@gmail.com?subject=Hello&body=I%20want%20to%20contact%20you!" style="display: inline-block; padding: 12px 25px; background-color: rgba(255,255,255,0.2); border-radius: 10px; color: white; text-decoration: none; font-weight: bold; transition: all 0.3s ease;">
     Contact Me 🚀
   </a>
 </section>
