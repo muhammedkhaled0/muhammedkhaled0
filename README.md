@@ -3,9 +3,9 @@
 
 <p>
   Welcome to my page! <br/>
-  I'm Muhammed, a Full-Stack Developer passionate about building web applications using 
-  <b>React, JavaScript, TypeScript, and Node.js</b>, from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> 
+  I'm Muhammed, a Frontend Developer passionate about building web applications using 
+  <b>React, JavaScript, TypeScript, and Next</b>, from 
+  <img src="[https://cdn-icons-png.flaticon.com/512/197/197604.png](https://pngtree.com/so/egypt-flag-icon)" width="13"/> 
   <b>Egypt</b>.
 </p>
 <h3>Things I code with</h3>
