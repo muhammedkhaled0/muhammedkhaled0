@@ -5,7 +5,7 @@
   Welcome to my page! <br/>
   I'm Muhammed, a Frontend Developer passionate about building web applications using 
   <b>React, JavaScript, TypeScript, and Next</b>, from 
-  <img src="https://flagcdn.com/eg.svg" width="25"/> 
+  <img src="https://flagcdn.com/eg.svg" width="20"/> 
   <b>Egypt</b>.
 </p>
 <h3>Things I code with</h3>
@@ -118,3 +118,15 @@
   </a>
 </p>
 >
+<!-- ===== Highlight Section ===== -->
+<section style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 50px 20px; border-radius: 20px; margin: 40px 0; text-align: center; color: white;">
+  <h2 style="font-size: 2.2rem; margin-bottom: 20px;">🌟 Did you know?</h2>
+  <p style="font-size: 1.2rem; max-width: 700px; margin: 0 auto 30px auto;">
+    I love exploring new technologies and I try to learn something new every week! 
+    My favorite areas are <b>Web Performance</b>, <b>UI/UX Design</b>, and <b>React Ecosystem</b>.
+  </p>
+  <a href="#contact" style="display: inline-block; padding: 12px 25px; background-color: rgba(255,255,255,0.2); border-radius: 10px; color: white; text-decoration: none; font-weight: bold; transition: all 0.3s ease;">
+    Contact Me 🚀
+  </a>
+</section>
+
