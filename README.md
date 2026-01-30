@@ -124,7 +124,7 @@
     I love exploring new technologies and I try to learn something new every week! 
     My favorite areas are <b>Web Performance</b>, <b>UI/UX Design</b>, and <b>React Ecosystem</b>.
   </p>
-  <a href="muhammedkhaled7882@gmail.com?subject=Hello&body=I%20want%20to%20contact%20you!" style="display: inline-block; padding: 12px 25px; background-color: rgba(255,255,255,0.2); border-radius: 10px; color: white; text-decoration: none; font-weight: bold; transition: all 0.3s ease;">
+  <a href="mailto:muhammedkhaled7882@gmail.com?subject=Hello&body=I%20want%20to%20contact%20you!" style="display: inline-block; padding: 12px 25px; background-color: rgba(255,255,255,0.2); border-radius: 10px; color: white; text-decoration: none; font-weight: bold; transition: all 0.3s ease;">
     Contact Me 🚀
   </a>
 </section>
