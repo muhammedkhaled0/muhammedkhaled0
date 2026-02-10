@@ -13,6 +13,10 @@
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+	<img 
+  alt="React Hook Form" 
+  src="https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" 
+/>
   <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
   <img alt="NextAuth" src="https://img.shields.io/badge/-NextAuth-000000?style=flat-square&logo=auth0&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
