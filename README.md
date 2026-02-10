@@ -29,7 +29,6 @@
   <img alt="HeroUI" src="https://img.shields.io/badge/-HeroUI-111111?style=flat-square" />
   <img alt="Inverse UI" src="https://img.shields.io/badge/-Inverse_UI-222222?style=flat-square" />
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Responsive Design" src="https://img.shields.io/badge/-Responsive_Design-38B2AC?style=flat-square&logo=css3&logoColor=white" />
 
   <!-- Validation & Web APIs -->
