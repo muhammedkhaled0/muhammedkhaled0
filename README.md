@@ -13,6 +13,8 @@
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+<img alt="React Hot Toast" src="https://img.shields.io/badge/-React_Hot_Toast-FF4B4B?style=flat-square&logo=react&logoColor=white" />
+	<img alt="React Helmet" src="https://img.shields.io/badge/-React_Helmet-000000?style=flat-square&logo=react&logoColor=61DAFB" />
 	<img 
   alt="React Hook Form" 
   src="https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" 
