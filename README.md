@@ -99,7 +99,7 @@
 <!-- ===== Projects ===== -->
 <ul>
   <li>
-    <a href="https://e-commerce-five-iota-63.vercel.app/">
+    <a href="https://e-commerce-five-iota-63.vercel.app/" target="_blank">
       🔥 <b>E-commerce</b>
     </a>
     <br />
@@ -107,7 +107,7 @@
   </li>
 
   <li>
-    <a href="https://linked-posts-nine.vercel.app/">
+    <a href="https://route-posts-opal.vercel.app" target="_blank">
       🔥 <b>Social Application</b>
     </a>
     <br />
@@ -115,7 +115,7 @@
   </li>
 
   <li>
-    <a href="https://muhammedkhaled0.github.io/Weather/">
+    <a href="https://muhammedkhaled0.github.io/Weather/" tagret="_blank">
       🔥 <b>Weather Application</b>
     </a>
     <br />
