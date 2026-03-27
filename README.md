@@ -60,6 +60,11 @@
   <img alt="OOP" src="https://img.shields.io/badge/-OOP-FF6B6B?style=flat-square&logo=codeforces&logoColor=white" />
   <img alt="Data Structures" src="https://img.shields.io/badge/-Data_Structures-4CAF50?style=flat-square&logo=thealgorithms&logoColor=white" />
 </p>
+<h3>GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedkhaled0&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkhaled0&theme=radical" />
+</p>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
