@@ -62,8 +62,8 @@
 </p>
 <h3>GitHub Stats</h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammedkhaled0&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkhaled0&theme=radical"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammedkhaled0&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkhaled0&theme=radical"/>
 </p>
 <h3>Open source projects</h3>
 <table>
