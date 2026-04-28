@@ -65,9 +65,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammedkhaled0&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkhaled0&theme=radical"/>
 </p>
-<div align="center">
-## 🚀 Open Source Projects
- 
+<h3>GitHub Projects</h3>
+<div align="center"> 
 </div>
 <br/>
 <div align="center">
@@ -75,7 +74,6 @@
     <thead>
       <tr>
         <th>Project</th>
-        <th>About</th>
         <th>Stars</th>
         <th>Forks</th>
         <th>Issues</th>
@@ -89,7 +87,6 @@
             <img src="https://img.shields.io/badge/🛒_E--Commerce-0f172a?style=for-the-badge&logoColor=38bdf8"/>
           </a>
         </td>
-        <td>Online shopping platform with modern UI</td>
         <td><img src="https://img.shields.io/github/stars/muhammedkhaled0/E-commerce?style=flat-square&logo=github&labelColor=0f172a&color=38bdf8"/></td>
         <td><img src="https://img.shields.io/github/forks/muhammedkhaled0/E-commerce?style=flat-square&logo=github&labelColor=0f172a&color=818cf8"/></td>
         <td><img src="https://img.shields.io/github/issues/muhammedkhaled0/E-commerce?style=flat-square&labelColor=0f172a&color=f472b6"/></td>
@@ -101,7 +98,6 @@
             <img src="https://img.shields.io/badge/💬_Social_App-0f172a?style=for-the-badge&logoColor=38bdf8"/>
           </a>
         </td>
-        <td>Connect, share posts & stay updated</td>
         <td><img src="https://img.shields.io/github/stars/muhammedkhaled0/Route-Posts?style=flat-square&logo=github&labelColor=0f172a&color=38bdf8"/></td>
         <td><img src="https://img.shields.io/github/forks/muhammedkhaled0/Route-Posts?style=flat-square&logo=github&labelColor=0f172a&color=818cf8"/></td>
         <td><img src="https://img.shields.io/github/issues/muhammedkhaled0/Route-Posts?style=flat-square&labelColor=0f172a&color=f472b6"/></td>
@@ -113,7 +109,6 @@
             <img src="https://img.shields.io/badge/🌤_Weather_App-0f172a?style=for-the-badge&logoColor=38bdf8"/>
           </a>
         </td>
-        <td>Real-time weather with clean UI</td>
         <td><img src="https://img.shields.io/github/stars/muhammedkhaled0/Weather?style=flat-square&logo=github&labelColor=0f172a&color=38bdf8"/></td>
         <td><img src="https://img.shields.io/github/forks/muhammedkhaled0/Weather?style=flat-square&logo=github&labelColor=0f172a&color=818cf8"/></td>
         <td><img src="https://img.shields.io/github/issues/muhammedkhaled0/Weather?style=flat-square&labelColor=0f172a&color=f472b6"/></td>
@@ -124,10 +119,8 @@
 </div>
 <br/>
 ---
- 
-<div align="center">
-## ✨ Live Demos
- 
+ <h3>Live Demos</h3>
+<div align="center"> 
 </div>
 <br/>
 <div align="center">
