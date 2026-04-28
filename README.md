@@ -65,69 +65,113 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammedkhaled0&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkhaled0&theme=radical"/>
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
+<div align="center">
+## 🚀 Open Source Projects
+ 
+</div>
+<br/>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>About</th>
+        <th>Stars</th>
+        <th>Forks</th>
+        <th>Issues</th>
+        <th>PRs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/muhammedkhaled0/E-Commerce">
+            <img src="https://img.shields.io/badge/🛒_E--Commerce-0f172a?style=for-the-badge&logoColor=38bdf8"/>
+          </a>
+        </td>
+        <td>Online shopping platform with modern UI</td>
+        <td><img src="https://img.shields.io/github/stars/muhammedkhaled0/E-commerce?style=flat-square&logo=github&labelColor=0f172a&color=38bdf8"/></td>
+        <td><img src="https://img.shields.io/github/forks/muhammedkhaled0/E-commerce?style=flat-square&logo=github&labelColor=0f172a&color=818cf8"/></td>
+        <td><img src="https://img.shields.io/github/issues/muhammedkhaled0/E-commerce?style=flat-square&labelColor=0f172a&color=f472b6"/></td>
+        <td><img src="https://img.shields.io/github/issues-pr/muhammedkhaled0/E-commerce?style=flat-square&labelColor=0f172a&color=34d399"/></td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/muhammedkhaled0/Route-Posts">
+            <img src="https://img.shields.io/badge/💬_Social_App-0f172a?style=for-the-badge&logoColor=38bdf8"/>
+          </a>
+        </td>
+        <td>Connect, share posts & stay updated</td>
+        <td><img src="https://img.shields.io/github/stars/muhammedkhaled0/Route-Posts?style=flat-square&logo=github&labelColor=0f172a&color=38bdf8"/></td>
+        <td><img src="https://img.shields.io/github/forks/muhammedkhaled0/Route-Posts?style=flat-square&logo=github&labelColor=0f172a&color=818cf8"/></td>
+        <td><img src="https://img.shields.io/github/issues/muhammedkhaled0/Route-Posts?style=flat-square&labelColor=0f172a&color=f472b6"/></td>
+        <td><img src="https://img.shields.io/github/issues-pr/muhammedkhaled0/Route-Posts?style=flat-square&labelColor=0f172a&color=34d399"/></td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/muhammedkhaled0/Weather">
+            <img src="https://img.shields.io/badge/🌤_Weather_App-0f172a?style=for-the-badge&logoColor=38bdf8"/>
+          </a>
+        </td>
+        <td>Real-time weather with clean UI</td>
+        <td><img src="https://img.shields.io/github/stars/muhammedkhaled0/Weather?style=flat-square&logo=github&labelColor=0f172a&color=38bdf8"/></td>
+        <td><img src="https://img.shields.io/github/forks/muhammedkhaled0/Weather?style=flat-square&logo=github&labelColor=0f172a&color=818cf8"/></td>
+        <td><img src="https://img.shields.io/github/issues/muhammedkhaled0/Weather?style=flat-square&labelColor=0f172a&color=f472b6"/></td>
+        <td><img src="https://img.shields.io/github/issues-pr/muhammedkhaled0/Weather?style=flat-square&labelColor=0f172a&color=34d399"/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<br/>
+---
+ 
+<div align="center">
+## ✨ Live Demos
+ 
+</div>
+<br/>
+<div align="center">
+  <a href="https://e-commerce-five-iota-63.vercel.app/">
+    <img src="https://img.shields.io/badge/🛒_E--Commerce_Platform-Visit_Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a&color=38bdf8"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://route-posts-opal.vercel.app">
+    <img src="https://img.shields.io/badge/💬_Social_Application-Visit_Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a&color=818cf8"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://muhammedkhaled0.github.io/Weather/">
+    <img src="https://img.shields.io/badge/🌤_Weather_App-Visit_Live-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=34d399"/>
+  </a>
+</div>
+<br/>
+<div align="center">
+  <table>
     <tr>
-      <td><a href="https://github.com/muhammedkhaled0/E-Commerce"><b>E-Commerce</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/muhammedkhaled0/E-commerce?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/muhammedkhaled0/E-commerce?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/muhammedkhaled0/E-commerce?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/muhammedkhaled0/E-commerce?style=flat-square&labelColor=343b41"/></td>
+      <td align="center" width="300">
+        <a href="https://e-commerce-five-iota-63.vercel.app/">
+          <strong>🛒 E-Commerce Platform</strong>
+        </a>
+        <br/>
+        <sub>An online shopping platform with smooth navigation and modern UI.</sub>
+      </td>
+      <td align="center" width="300">
+        <a href="https://route-posts-opal.vercel.app">
+          <strong>💬 Social Application</strong>
+        </a>
+        <br/>
+        <sub>Connect with friends, share posts, and stay updated in real-time.</sub>
+      </td>
+      <td align="center" width="300">
+        <a href="https://muhammedkhaled0.github.io/Weather/">
+          <strong>🌤 Weather Application</strong>
+        </a>
+        <br/>
+        <sub>Check the latest weather updates with a clean, user-friendly interface.</sub>
+      </td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/muhammedkhaled0/Route-Posts"><b>Social Application</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/muhammedkhaled0/Route-Posts?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/muhammedkhaled0/Route-Posts?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/muhammedkhaled0/Route-Posts?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/muhammedkhaled0/Route-Posts?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/muhammedkhaled0/Weather"><b>Weather Application</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/muhammedkhaled0/Weather?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/muhammedkhaled0/Weather?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/muhammedkhaled0/Weather?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-<h3>My latest posts</h3>
-<!-- ===== Projects ===== -->
-<ul>
-  <li>
-    <a href="https://e-commerce-five-iota-63.vercel.app/" target="_blank">
-      🔥 <b>E-commerce</b>
-    </a>
-    <br />
-    <i>An online shopping platform with smooth navigation and modern UI.</i>
-  </li>
-
-  <li>
-    <a href="https://route-posts-opal.vercel.app" target="_blank">
-      🔥 <b>Social Application</b>
-    </a>
-    <br />
-    <i>Connect with friends, share posts, and stay updated in real-time.</i>
-  </li>
-
-  <li>
-    <a href="https://muhammedkhaled0.github.io/Weather/" target="_blank">
-      🔥 <b>Weather Application</b>
-    </a>
-    <br />
-    <i>Check the latest weather updates with a clean, user-friendly interface.</i>
-  </li>
-</ul>
-
+  </table>
+</div>
+ 
 <!-- ===== Social Links ===== -->
 <h3>Where to find me</h3>
 
