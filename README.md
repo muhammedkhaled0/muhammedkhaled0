@@ -77,7 +77,6 @@
         <th>Stars</th>
         <th>Forks</th>
         <th>Issues</th>
-        <th>PRs</th>
       </tr>
     </thead>
     <tbody>
@@ -90,7 +89,6 @@
         <td><img src="https://img.shields.io/github/stars/muhammedkhaled0/E-commerce?style=flat-square&logo=github&labelColor=0f172a&color=38bdf8"/></td>
         <td><img src="https://img.shields.io/github/forks/muhammedkhaled0/E-commerce?style=flat-square&logo=github&labelColor=0f172a&color=818cf8"/></td>
         <td><img src="https://img.shields.io/github/issues/muhammedkhaled0/E-commerce?style=flat-square&labelColor=0f172a&color=f472b6"/></td>
-        <td><img src="https://img.shields.io/github/issues-pr/muhammedkhaled0/E-commerce?style=flat-square&labelColor=0f172a&color=34d399"/></td>
       </tr>
       <tr>
         <td>
@@ -101,7 +99,6 @@
         <td><img src="https://img.shields.io/github/stars/muhammedkhaled0/Route-Posts?style=flat-square&logo=github&labelColor=0f172a&color=38bdf8"/></td>
         <td><img src="https://img.shields.io/github/forks/muhammedkhaled0/Route-Posts?style=flat-square&logo=github&labelColor=0f172a&color=818cf8"/></td>
         <td><img src="https://img.shields.io/github/issues/muhammedkhaled0/Route-Posts?style=flat-square&labelColor=0f172a&color=f472b6"/></td>
-        <td><img src="https://img.shields.io/github/issues-pr/muhammedkhaled0/Route-Posts?style=flat-square&labelColor=0f172a&color=34d399"/></td>
       </tr>
       <tr>
         <td>
@@ -112,13 +109,11 @@
         <td><img src="https://img.shields.io/github/stars/muhammedkhaled0/Weather?style=flat-square&logo=github&labelColor=0f172a&color=38bdf8"/></td>
         <td><img src="https://img.shields.io/github/forks/muhammedkhaled0/Weather?style=flat-square&logo=github&labelColor=0f172a&color=818cf8"/></td>
         <td><img src="https://img.shields.io/github/issues/muhammedkhaled0/Weather?style=flat-square&labelColor=0f172a&color=f472b6"/></td>
-        <td><img src="https://img.shields.io/github/issues-pr/muhammedkhaled0/Weather?style=flat-square&labelColor=0f172a&color=34d399"/></td>
       </tr>
     </tbody>
   </table>
 </div>
 <br/>
----
  <h3>Live Demos</h3>
 <div align="center"> 
 </div>
